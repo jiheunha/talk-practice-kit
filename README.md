@@ -23,7 +23,7 @@ python3.13 setup_kit.py        # macOS
 
 macOS에서는 `.venv/bin/python`을 씁니다.
 
-Claude Code를 쓴다면 [PROMPT_for_Claude_Code.md](PROMPT_for_Claude_Code.md)의 프롬프트를 붙여 넣으세요. 설치부터 첫 빌드까지 도와줍니다.
+Claude Code를 쓴다면 [PROMPT_for_Claude_Code.md](PROMPT_for_Claude_Code.md)의 프롬프트를 붙여 넣으세요. 설치와 빌드를 알아서 해줍니다.
 
 ## Build your talk
 
