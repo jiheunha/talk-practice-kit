@@ -71,7 +71,7 @@ The station records temperature every ten minutes.
 
 ## Privacy
 
-모든 과정은 로컬 컴퓨터에서 실행됩니다. `talks/` 안의 파일은 README를 빼고 git에서 제외되니 발표 자료는 그 안에 두세요.
+모든 과정은 로컬 컴퓨터에서 실행됩니다. `talks/` 안의 파일은 README를 빼고 gitignore되니 발표 자료를 `talks/` 안에 두세요.
 
 ## Licenses
 
