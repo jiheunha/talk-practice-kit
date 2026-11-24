@@ -75,4 +75,4 @@ The station records temperature every ten minutes.
 
 ## Licenses
 
-이 kit은 MIT 라이선스입니다 ([LICENSE](LICENSE)). 설치할 때 내려받는 구성 요소는 각자의 라이선스를 따릅니다: Kokoro-82M(Apache-2.0), kokoro-onnx(MIT), misaki(Apache-2.0), PyMuPDF(AGPL-3.0), espeak-ng(GPL-3.0), LAME(LGPL).
+This kit is released under the MIT License ([LICENSE](LICENSE)). The components downloaded during setup keep their own licenses: Kokoro-82M (Apache-2.0), kokoro-onnx (MIT), misaki (Apache-2.0), PyMuPDF (AGPL-3.0), espeak-ng (GPL-3.0), and LAME (LGPL).
