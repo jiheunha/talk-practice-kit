@@ -18,7 +18,7 @@ Practice an English talk on your own computer. You give the kit your script and 
 Python 3.12 또는 3.13이 필요합니다 (3.14는 아직 지원하지 않습니다). 디스크 여유 공간은 약 1.5 GB가 필요하고, 그중 모델 파일이 약 350 MB입니다.
 
 ```
-git clone <이 저장소 주소>
+git clone https://github.com/jiheunha/talk-practice-kit.git
 cd talk-practice-kit
 ```
 
