@@ -6,7 +6,7 @@ Practice an English talk on your own computer. You give the kit your script and 
 
 ## Setup
 
-Python 3.12 또는 3.13이 필요합니다. 패키지와 모델 파일(350 MB)을 내려받느라 10분쯤 걸립니다.
+Python 3.12 또는 3.13이 필요합니다. 패키지와 모델 파일(350 MB) 다운로드에 10분쯤 소요됩니다.
 
 ```
 git clone https://github.com/jiheunha/talk-practice-kit.git
@@ -23,7 +23,7 @@ python3.13 setup_kit.py        # macOS
 
 macOS에서는 `.venv/bin/python`을 씁니다.
 
-Claude Code를 쓴다면 [PROMPT_for_lab.md](PROMPT_for_lab.md)의 프롬프트를 붙여 넣으세요. 설치부터 첫 빌드까지 도와줍니다.
+Claude Code를 쓴다면 [PROMPT_for_Claude_Code.md](PROMPT_for_Claude_Code.md)의 프롬프트를 붙여 넣으세요. 설치부터 첫 빌드까지 도와줍니다.
 
 ## Build your talk
 
