@@ -71,7 +71,7 @@ The station records temperature every ten minutes.
 
 ## Privacy
 
-모든 과정이 내 컴퓨터에서 실행되고, 스크립트와 슬라이드는 온라인으로 전송되지 않습니다. 인터넷은 설치할 때만 씁니다. `talks/` 안의 파일은 README를 빼고 git에서 제외되니 발표 자료는 그 안에 두세요.
+모든 과정은 로컬 컴퓨터에서 실행됩니다. `talks/` 안의 파일은 README를 빼고 git에서 제외되니 발표 자료는 그 안에 두세요.
 
 ## Licenses
 
