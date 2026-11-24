@@ -1,0 +1,14 @@
+# written form <TAB> spoken form <TAB> note
+# The build applies these lines before synthesis. It never edits your script file.
+# Spoken form: plain text is read as written; a part between slashes is a phoneme string
+# (misaki / Kokoro alphabet: A = "ay", I = "eye", O = "oh", W = "ow", Y = "oy").
+# Longer written forms win. Matching is case-sensitive, whole words only.
+# The lines below are examples. Delete them or add your own.
+KAIST	/kˈIst/	one word, rhymes with heist
+QR	Q-R
+CO2	carbon dioxide
+H2	hydrogen
+Daejeon	/dˈɛʤʌn/	DEH-jun
+Daedeok	/dˈɛdʌk/	DEH-duk
+Dunsan	/dˈunsɑn/	DOON-sahn
+Heo	/hˈʌ/	HUH

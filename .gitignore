@@ -1,0 +1,14 @@
+.venv/
+models/
+cache/
+__pycache__/
+
+# Build output
+talks/*/app/audio/
+talks/*/app/img/
+talks/*/app/data.js
+example/app/
+
+# Scripts and decks are private: ignore everything in talks/ except its README
+talks/*
+!talks/README.md

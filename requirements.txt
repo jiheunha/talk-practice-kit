@@ -1,0 +1,13 @@
+# Python 3.12 or 3.13. CPU only.
+kokoro-onnx==0.6.1
+onnxruntime==1.32.0
+misaki[en]==0.7.4
+phonemizer==3.6.0
+espeakng-loader==0.2.4
+num2words==0.5.6
+spacy==3.8.18
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+numpy
+soundfile==0.14.0
+lameenc==1.9.0
+pymupdf==2.1
